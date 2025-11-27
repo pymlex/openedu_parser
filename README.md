@@ -8,7 +8,7 @@
     style="display: block; margin: auto;" 
 />
 
-A web-scraping pipeline that collects structured course information from the Russian educational platform OpenEdu.ru using a combination of Selenium with geckodriver (for dynamic pagination), Requests + BeautifulSoup (for detailed page parsing), and lightweight parallelization. The dataset with the parsing results is saved on Kaggle.
+A web-scraping pipeline that collects structured course information from the Russian educational platform OpenEdu.ru using a combination of Selenium with geckodriver (for dynamic pagination), Requests + BeautifulSoup (for detailed page parsing), and lightweight parallelization. The [dataset](https://www.kaggle.com/datasets/alexzyukov/openedu-ru-courses) is saved on Kaggle.
 
 ## Data Collected
 
