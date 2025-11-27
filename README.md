@@ -1,5 +1,7 @@
 # OpenEdu Courses Scraper
 
+![openedu-black](https://github.com/user-attachments/assets/9e227c79-5792-43f6-bb5e-d31e64fb5f16)
+
 A web-scraping pipeline that collects structured course information from the Russian educational platform OpenEdu.ru using a combination of Selenium with geckodriver (for dynamic pagination), Requests + BeautifulSoup (for detailed page parsing), and lightweight parallelization. The dataset with the parsing results is saved on Kaggle.
 
 ## Data Collected
