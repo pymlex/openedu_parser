@@ -2,8 +2,8 @@
 
 <img 
     src="https://github.com/user-attachments/assets/9e227c79-5792-43f6-bb5e-d31e64fb5f16" 
-    width="50%" 
-    height="50%" 
+    width="40%" 
+    height="40%" 
     alt="openedu-black" 
     style="display: block; margin: auto;" 
 />
